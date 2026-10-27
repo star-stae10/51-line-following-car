@@ -1,0 +1,10 @@
+# Keil C51 工程产物（若日后加入工程文件）
+*.uvguix.*
+Objects/
+Listings/
+*.bak
+
+# 操作系统垃圾文件
+Thumbs.db
+Desktop.ini
+.DS_Store
